@@ -1,4 +1,4 @@
-# Visual Pathing Algorithms Specification (tentative name)
+# Pathing-Algorithms-Visualized (tentative name) Specification
 
 ## Alexander Giammaruti
 
